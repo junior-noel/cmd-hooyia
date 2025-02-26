@@ -1,0 +1,22 @@
+git clone "repository url"; clone a remote repositoriy to your local machine
+git add .:add changes to the starging area
+git commit -m "commit message"
+git push:push your local changes to a remote repotories
+git init:initialises the
+git push:push your local changes to a remote area
+git pull:pull the latest changes from a remote repository
+git branch:creat a new branch or list existing branch
+git clip
+git log:view the commit history of a repository
+git status: view the status of your current branch
+git config --global user name
+git reset:reset your changes and start over
+git remote:add or remove remote repositoriy
+git tag:creat a tag to mark a spersific commit
+git fetch:fetch the latest changes from a remote repositoriy
+git merge:merge changes from one branch into another
+git cherry:show the comit differences between two commit
+git stash:save your changes temporaly and switch to a different branch
+git revert
+git diff:view the differences begtween two commit
+git checkout:switch to a differnt branch
